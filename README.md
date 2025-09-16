@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>🛠️ I’m currently working on:<br>Front-end projects and small systems using JavaScript/React.<br><br>🤝 I’m looking to collaborate on:<br>Creative ideas, open source, and projects that mix design + coding.<br><br>🙌 I’m looking for help with:<br>Best practices in code architecture and API integration.<br><br>🌱 I’m currently learning:<br>Node.js, databases, and a bit of DevOps.<br><br>💬 Ask me about:<br>Games, technology, psychology, and indie music.<br><br>⚡ Fun fact:<br>My cat Maico is basically the CEO of my house 🐈
+About Me:<br>🛠️ I’m currently working on:<br>Front-end projects and small systems using JavaScript/React.<br><br>🤝 I’m looking to collaborate on:<br>Creative ideas, open source, and projects that mix design + coding.<br><br>🙌 I’m looking for help with:<br>Best practices in code architecture and API integration.<br><br>🌱 I’m currently learning:<br>Node.js, databases, and a bit of DevOps.<br><br>💬 Ask me about:<br>Games, technology, psychology, and indie music.<br><br>
 
 
 ## 🌐 Socials:
